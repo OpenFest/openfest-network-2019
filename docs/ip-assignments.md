@@ -31,8 +31,8 @@ IP | Name | Notes
 .52 | ap-cf-a1  | ap room A stage
 .53 | ap-cf-a2  | ap room A back
 .54 | ap-cf-b1  | ap room B stage
-.55 | ap-cf-c1  | ap room C stage
 .55 | ap-cf-srv  | ap server room main floor
+.56 | ap-cf-c1  | ap room C stage
 .58 | ap-cf-ch   | ap conf floor chillout area
 .59 | ap-cf-qws  | ap conf floor quiet workshop area
 .60 | ap-ws-ws1  | ap workshop floor workshop area
