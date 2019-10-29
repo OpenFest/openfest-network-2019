@@ -16,7 +16,7 @@ ID | IP/Range | Name | Notes
 ### MGMT
 IP | Name | Notes
 ---|------|------
-.1 | eric | router/services
+.1 | vin | router/services
 .11 | coresw | CORE
 .21 | vocsw-A | video team switch room A
 .22 | vocsw-B | video team switch room B
@@ -45,7 +45,7 @@ IP | Name | Notes
 ### Video
 IP | Name | Notes
 ---|------|------
-.1 | eric |
+.1 | vin |
 .5 | videosw-A | main room Blackmagic video switcher
 .6 | scaler-A | Atlona scaler in room A
 .7 | videosw-B | second room Blackmagic video switcher
@@ -68,14 +68,14 @@ IP | Name | Notes
 ### Overflow
 IP | Name | Notes
 ---|------|------
-.1 | eric |
+.1 | vin |
 .11 | tv-1 | overflow-1 RPI
 .12 | tv-2 | overflow-2 RPI
 
 ### Wired
 IP | Name | Notes
 ---|------|------
-0.1 | eric |
+0.1 | vin |
 0.20 | presenter-A | presenter wired connection in main room
 0.30 | presenter-B | presenter wired connection in second room
 0.40 | presenter-C | presenter wired connection in third room
@@ -83,5 +83,5 @@ IP | Name | Notes
 ### Reception
 IP | Name | Notes
 ---|------|------
-.1 | eric |
+.1 | vin |
 .11 | printer-1 | printer reception
