@@ -48,6 +48,7 @@ Gi0/13  | 01.05A |             | wired user
 Gi0/14  |unknown |             | wired user   
 Gi0/15  |unknown |             | wired user  
 Gi0/16  |unknown |             | wired user  
+Gi0/20  |unknown |             | ws overflow (uses AP port)
 Gi0/49  |unknown | Gi1/0/49    | uplink coresw (MM fiber)
 
 NOC switch
