@@ -29,6 +29,7 @@ Gi1/0/25| 01.17A |             | presenter-B
 Gi1/0/26| 01.20B |             | presenter-C
 Gi1/0/27| 01.09A | eth0        | cambox-B
 Gi1/0/28| 01.05A | eth0        | cambox-C
+Gi1/0/29| 01.14A | eth0        | overflow
 Gi1/0/48|techpark| unknown     | techpark switch
 Gi1/0/49|unknown | gi0/49      | f0sw (MM fiber)
 Gi1/0/50|unknown | n/a         | ipacct (SM fiber)
