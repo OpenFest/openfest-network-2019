@@ -1,0 +1,9 @@
+object Host "voc-icom-A-2" {
+	import "generic-host"
+
+	# RPI intercom receiver 2 - main room [2/3]
+	address = "icom-A-2"
+	vars.groups = [ "equipment" ]
+
+	vars.parent = "vocsw-A.openfest.org"
+}

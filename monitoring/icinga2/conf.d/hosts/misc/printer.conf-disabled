@@ -1,0 +1,9 @@
+object Host "printer-1" {
+	import "generic-host"
+
+	# reception printer
+	address = "printer-1"
+	vars.groups = [ "misc" ]
+
+	vars.parent = "receptionsw.openfest.org"
+}

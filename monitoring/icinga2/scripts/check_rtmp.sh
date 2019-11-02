@@ -69,7 +69,7 @@ NAME=`echo $URL | sed -e s/[^A-Za-z0-9.]/_/g`
 ERR=/tmp/check_rtmp_err_$NAME.tmp
 
 # Testejant
-timeout 7 --preserve-status $RTMPDUMP --live -r $URL --stop $TIMEOUT > /dev/null 2> $ERR
+timeout --preserve-status 7 $RTMPDUMP --live -r $URL --stop $TIMEOUT > /dev/null 2> $ERR
 status=$?
 
 
